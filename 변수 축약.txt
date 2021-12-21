@@ -1,0 +1,4 @@
+val - value
+arr - array
+cnt - count
+func - function
