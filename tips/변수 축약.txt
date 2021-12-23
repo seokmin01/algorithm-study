@@ -3,3 +3,6 @@ arr - array
 cnt - count
 func - function
 tmp - temporary
+idx - index
+len - length
+num - number
