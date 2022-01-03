@@ -48,3 +48,7 @@ int main(void) {
   insert_test();
   erase_test();
 }
+
+/*
+하나씩 옮기는 작업
+*/
