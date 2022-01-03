@@ -6,3 +6,8 @@ tmp - temporary
 idx - index
 len - length
 num - number
+dat - data
+pre - previous
+nxt - next
+addr - address
+MX - max
