@@ -5,11 +5,12 @@ int arr[9];
 int main(void) {
     ios::sync_with_stdio(0);
     cin.tie(0);
-    string s;
-    cin >> s;
-    for (auto c : s) {
-        if (c == '9') arr[6]++;
-        else arr[c - '0']++;
+    int n;
+    cin >> n;
+    while (n) {
+        if (n%10 == 9) arr[6]++;
+        else arr[n%10]++;
+        n /= 10;
     }
     arr[6] = (arr[6] + 1) / 2;
     int max = 0;
