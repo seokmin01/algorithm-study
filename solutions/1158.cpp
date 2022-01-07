@@ -4,7 +4,6 @@ using namespace std;
 int main(void) {
     ios::sync_with_stdio(0);
     cin.tie(0);
-    string s;
     queue<int> Q;
     int n, k, i;
     cin >> n >> k;
