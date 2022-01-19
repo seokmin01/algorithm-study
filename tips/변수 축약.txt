@@ -12,3 +12,5 @@ nxt - next
 addr - address
 MX - max
 ans - answer
+res - result
+comp - compare
