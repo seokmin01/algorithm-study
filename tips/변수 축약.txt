@@ -12,5 +12,8 @@ nxt - next
 addr - address
 MX - max
 ans - answer
-res - result
+ret - result
 comp - compare
+usr - user
+src - source
+chk - check
