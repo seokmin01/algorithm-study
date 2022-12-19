@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(void) {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout << "hello\n";
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  cout << "hello\n";
 }
 
-// g++ -std=c++11 hello.cpp -o hello; ./hello
+// g++ -std=c++17 hello.cpp -o hello; ./hello
